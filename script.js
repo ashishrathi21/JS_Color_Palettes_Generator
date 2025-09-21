@@ -1,5 +1,4 @@
 let generateBtn = document.querySelector(".btn");
-let palette = document.querySelector(".palette");
 
 function generatePalette() {
   const colors = [];
